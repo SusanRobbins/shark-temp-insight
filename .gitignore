@@ -1,0 +1,23 @@
+# Ignore raw data and sensitive files
+*.xls
+*.xlsx
+*.csv
+*.tsv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment folders
+venv/
+env/
+__pycache__/
+
+# Ignore log or temp files
+*.log
+*.tmp
+
+gsaf_latest.xls
